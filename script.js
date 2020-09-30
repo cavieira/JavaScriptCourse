@@ -10,7 +10,7 @@ job = 'Student';
 console.log(`${firstName + lastName}`);
 console.log(firstName,lastName);
 
-/*Variable mutation and type coercion*/
+/* Variable mutation and type coercion */
 console.log(firstName + ' ' + age); //convert number into string
 
 var isMarried, sport;
@@ -33,4 +33,5 @@ console.log((ageMark < age));
 
 //typeof operator
 console.log(typeof ageMark);
+
 
